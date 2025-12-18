@@ -18,12 +18,11 @@ This repository contains my work for the British Airways Data Science simulation
 ## Repository Content
 ### Machine Learning (Task 2)
 - `Getting Started.ipynb`: Full Python code for data cleaning, modeling, and evaluation.
-- `Customer_Booking_Prediction_Presentation.pptx`: Final slide for management.
+- `customer_booking.pptx`: Final slide for management.
 
 ### Operational Analytics (Task 1)
-- `Lounge_Eligibility_Analysis.xlsx`: Model for predicting lounge access (Tier 1, 2, and 3).
-- `British_Airways_Summer_Schedule.xlsx`: Analysis of the summer flight dataset including passenger volume and haul types.
-- `Justification_Report.csv`: Detailed explanation of the logic used for passenger grouping.
+- `Lounge Eligibility Lookup Template - Task 1.xlsx`: Model for predicting lounge access (Tier 1, 2, and 3) and Detailed explanation of the logic used for passenger grouping .
+- `British Airways Summer Schedule Dataset - Forage Data Science Task 1.xlsx`: Presentation of the dataset, and creation of a Pivot Table. 
 
 ## Strategic Recommendations
 - **Targeting:** Focus marketing efforts on high-intent "Purchase Lead" segments.
